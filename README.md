@@ -18,7 +18,7 @@ Inspired by [Hotline Miami Mod Manager](https://github.com/cds-reis/hotline_miam
 ### Windows
 Download the .exe, put it in a folder wherever you like, run it.
 
-###Linux
+### Linux
 Download the AppImage, put it in a folder wherever you like, run it.
 If you're on Arch or an Arch-based distro like SteamOS, CachyOS, Bazzite etc. you can just pull the hmmm package from AUR (soon).
 
