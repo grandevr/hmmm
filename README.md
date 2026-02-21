@@ -1,5 +1,5 @@
 # HMMM 🤔
-## Hotline Miami Mod Manager
+# Hotline Miami Mod Manager
 
 Simple mod manager for Hotline Miami 2, to make the inconvenient thing a little less inconvenient. Vibe-coded, but fully tested.
 
