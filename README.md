@@ -26,7 +26,11 @@ If you're on Arch or an Arch-based distro like SteamOS, CachyOS, Bazzite etc. yo
 
 ## Usage
 After launching, press a button to find your vanilla hlm2_desktop_music.wad file, which is in your Steam folder (or SteamLibrary folder if you installed HM2 to a different drive), under /Steam/steamapps/common/Hotline Miami 2/
+
 Once you select it, you'll see the manager window, where you'll see your list of mods (once they're installed). To install a mod, just press the button, select the .patchwad(s) and/or music.wad files you downloaded from the custom map's/campaign's Workshop page, name the mod, and press OK.
+
 The installed mod won't be activated by default. To activate a mod, just double click it. To switch to a different mod, double click that one, and your currently active mod will be deactivated. To deactivate your active mod, just press the button on the bottom to revert to vanilla.
+
 You can right click a mod to edit it (lets you rename it and add or delete wad files), delete it from HMMM entirely, or export a mod package. The mod package is just a zip file with the mod name and the .wad files inside it, but it makes mods for complex campaigns easier to share and install.
+
 To import a mod package, just click the button and select a compatible zip file. 
