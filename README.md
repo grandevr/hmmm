@@ -1,5 +1,5 @@
-# HMMM 🤔
-### Hotline Miami Mod Manager
+# HMMM <img width="35" height="35" alt="icon" src="https://github.com/user-attachments/assets/c4506f05-dedd-4aa7-b204-77fb1622bf4e" />
+### Hotline Miami Mod Manager 
 
 GUI mod manager for Hotline Miami 2, to make the inconvenient thing a little less inconvenient. Vibe-coded in 2 days, but fully tested.
 
