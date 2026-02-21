@@ -10,7 +10,7 @@ Inspired by [Hotline Miami Mod Manager](https://github.com/cds-reis/hotline_miam
 ## Features
 - **Easy mod installation** - select a music.wad file and/or as many .patchwad mods as you want, and HMMM will install them for you. No more searching for hidden folders to paste your files into.
 - **One-click uninstall** - want to go back to vanilla? Just click a button.
-- **Switching mods** - installed a bunch of campaigns and want to be able to switch back and forth or revisit them? Just double click another mod. HMMM will restore the vanilla state, and activate your new mod instead. HMMM will keep the others backed up for later.
+- **Switching mods** - installed a bunch of campaigns and want to be able to switch between them? Just double click another mod. HMMM will restore the vanilla state, and activate your new mod instead. HMMM will keep the others backed up for later.
 - **Import and Export mod packages** - zip up however many mods you want, and other users will be able to import the whole pack in one click - with textures, sounds, and music in one file.
 - **Cross-platform** - works on Windows and Linux. You can install it from AUR if you use Arch btw.
 
