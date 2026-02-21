@@ -25,7 +25,7 @@ Download the .exe, put it in a folder wherever you like, run it.
 ### Linux
 Download the AppImage, put it in a folder wherever you like, run it.
 
-If you're on Arch or an Arch-based distro like SteamOS, CachyOS, Bazzite etc. you can just pull the hmmm package from AUR (soon).
+~~If you're on Arch or an Arch-based distro like SteamOS, CachyOS, Bazzite etc. you can just pull the hmmm package from AUR~~ (soon).
 
 ## Usage
 After launching, press a button to find your vanilla hlm2_desktop_music.wad file, which is in your Steam folder (or SteamLibrary folder if you installed HM2 to a different drive), under /Steam/steamapps/common/Hotline Miami 2/
