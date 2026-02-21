@@ -1,7 +1,7 @@
 # HMMM 🤔
 ### Hotline Miami Mod Manager
 
-Simple mod manager for Hotline Miami 2, to make the inconvenient thing a little less inconvenient. Vibe-coded, but fully tested.
+Simple mod manager for Hotline Miami 2, to make the inconvenient thing a little less inconvenient. Vibe-coded in 2 days, but fully tested.
 
 Inspired by [Hotline Miami Mod Manager](https://github.com/cds-reis/hotline_miami_mod_manager). *(It didn't have Linux support, so I started working on this 5 hours before it suddenly updated after 2 years with a Linux build. Sigh.)*
 
