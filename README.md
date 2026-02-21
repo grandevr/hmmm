@@ -3,7 +3,7 @@
 
 Simple mod manager for Hotline Miami 2, to make the inconvenient thing a little less inconvenient. Vibe-coded, but fully tested.
 
-Inspired by [Hotline Miami Mod Manager](https://github.com/cds-reis/hotline_miami_mod_manager). *(It didn't have Linux support, so I started working on this. 5 hours before it suddenly updated after 2 years with a Linux build. Sigh.)*
+Inspired by [Hotline Miami Mod Manager](https://github.com/cds-reis/hotline_miami_mod_manager). *(It didn't have Linux support, so I started working on this 5 hours before it suddenly updated after 2 years with a Linux build. Sigh.)*
 
 ## Features
 - **Easy mod installation** - select a music.wad file and/or as many .patchwad mods as you want, and HMMM will install them for you. No more searching for hidden folders to paste your files into.
