@@ -10,7 +10,7 @@ Inspired by [Hotline Miami Mod Manager](https://github.com/cds-reis/hotline_miam
 ## Features
 - **Easy mod installation** - select a music.wad file and/or as many .patchwad mods as you want, and HMMM will install them for you. No more searching for hidden folders to paste your files into.
 - **One-click uninstall** - want to go back to vanilla? Just click a button.
-- **Switching mods** - installed a bunch of campaigns and want to be able to switch between them? Just double click another mod. HMMM will restore the vanilla state, and activate your new mod instead. HMMM will keep the others backed up for later.
+- **Switching mods** - installed a bunch of campaigns and want to be able to switch between them? Just double click another mod. HMMM will restore the vanilla state, and activate your new mod instead. It will also keep the others backed up for later.
 - **Import and Export mod packages** - zip up however many mods you want, and other users will be able to import the whole pack in one click - with textures, sounds, and music in one file.
 - **Cross-platform** - works on Windows and Linux. You can install it from AUR if you use Arch btw.
 
@@ -30,7 +30,7 @@ If you're on Arch or an Arch-based distro like SteamOS, CachyOS, Bazzite etc. yo
 ## Usage
 After launching, press a button to find your vanilla hlm2_desktop_music.wad file, which is in your Steam folder (or SteamLibrary folder if you installed HM2 to a different drive), under /Steam/steamapps/common/Hotline Miami 2/
 
-Once you select it, you'll see the manager window, where you'll see your list of mods (once they're installed). To install a mod, just press the button, select the .patchwad(s) and/or music.wad files you downloaded from the custom map's/campaign's Workshop page, name the mod, and press OK.
+Once you select it, you'll see the manager window, where you'll see your list of mods (once they're installed). To install a mod, just press the button, select the .patchwad(s) and/or music.wad files you downloaded from the custom map's/campaign's Workshop page, name the mod, and press OK. You can delete the files you've downloaded, HMMM keeps a backup of them in its own folder.
 
 The installed mod won't be activated by default. To activate a mod, just double click it. To switch to a different mod, double click that one, and your currently active mod will be deactivated. To deactivate your active mod, just press the button on the bottom to revert to vanilla.
 
