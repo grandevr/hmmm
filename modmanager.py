@@ -87,7 +87,7 @@ class ModManager(QMainWindow):
 
         main_text = (
             "Hi, it's Homer, the new workshop manager.\n\n"
-            "I was told you're the one to speak to about client folders? Some joker hid our music vinyl there, and this place will need a lively ambience...\n\n"
+            "I was told you're the one to speak to about client folders? Some joker hid our music vinyl there, and this place will need a lively ambiance...\n\n"
             "I heard the files are kept somewhere in the common area, past the steam room. But you'll know best. Good luck. *CLICK*\n\n"
         )
         last_line = "(Select hlm2_music_desktop.wad in your HM2 installation folder, typically in /Steam/steamapps/common/Hotline Miami 2/)"
